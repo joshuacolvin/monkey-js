@@ -1,0 +1,22 @@
+{
+  "name": "monkey-js",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the Monkey programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuacolvin/monkey-js.git"
+  },
+  "author": "Joshua Colvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuacolvin/monkey-js/issues"
+  },
+  "homepage": "https://github.com/joshuacolvin/monkey-js#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
